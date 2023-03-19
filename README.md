@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fhello-lettering-handwritten-vector_20763787.htm&psig=AOvVaw1CtxXi_bZ0yqmQOxTZMweM&ust=1679309983554000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjA-6nr5_0CFQAAAAAdAAAAABAE">
+<img src="https://img.freepik.com/premium-vector/hello-lettering-handwritten-vector_546326-23.jpg?w=2000" width="200px" height="200px">
 
 <!--
 **sanyammunot/sanyammunot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
