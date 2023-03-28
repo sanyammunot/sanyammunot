@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.freepik.com/premium-vector/hello-lettering-handwritten-vector_546326-23.jpg?w=2000" width="200px" height="200px">
+
 
 <!--
 **sanyammunot/sanyammunot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
